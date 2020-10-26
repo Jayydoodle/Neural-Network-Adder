@@ -1,8 +1,6 @@
 import java.util.Objects;
 
 /**
- * Author: acbart@udel.edu
- * Updated: 3/21/2019
  * Description: A simple implementation of a hashable Edge type. Given two
  * vertices, an Edge can be constructed. Two Edges with the same vertices can
  * be considered equal, making this class suitable as the key for a Map.
